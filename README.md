@@ -1,51 +1,42 @@
-## Developer Portfolio Landing Page Template
+# Neel's Data Analyst Portfolio
 
-### Introduction
+![Data Analyst](https://img.shields.io/badge/Role-Data%20Analyst-blue)
 
-Use this template if you need a quick developer / data science portfolio! Based on a Minimal Jekyll theme for GitHub Pages.
+## About Me
 
-<img src="images/demo.gif?raw=true"/>
+👋 Hello, fellow data enthusiasts! I'm Neel, a passionate Data Analyst on a mission to uncover the hidden stories behind data. Armed with a degree in Data Science and a curious mind, I thrive on exploring datasets to extract valuable insights and drive data-informed decisions.
 
-### Installation
+## 📚 Skills
 
-See full step by step tutorial [on Medium](https://medium.com/@evanca/set-up-your-portfolio-website-in-less-than-10-minutes-with-github-pages-d0efa8ff56fd).
-___
+- Data Cleaning and Preprocessing
+- Data Visualization using Python and Tableau
+- Statistical Analysis and Hypothesis Testing
+- SQL and Database Management
+- Python for Data Analysis (Pandas, NumPy)
+- Excel and Google Sheets for Data Manipulation
 
-You can use the editor on GitHub to maintain and preview the content for your website in Markdown files.
+## 🔭 Projects
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+1. **Sales Data Analysis**
+   - Analyzed sales data to identify trends and optimize product recommendations.
+   - Tools used: Python, Pandas, Matplotlib.
 
-### Markdown
+2. **Customer Segmentation**
+   - Conducted clustering analysis to segment customers based on behavior.
+   - Tools used: Python, Scikit-learn.
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+3. **Marketing Campaign ROI**
+   - Evaluated the effectiveness of marketing campaigns using ROI metrics.
+   - Tools used: SQL, Excel.
 
-```markdown
-Syntax highlighted code block
+## 📫 Contact
 
-# Header 1
-## Header 2
-### Header 3
+📧 Feel free to reach out to me at [neel@email.com](mailto:neelnshah1998@gmail.com) for any collaboration opportunities or to discuss data-related projects.
 
-- Bulleted
-- List
+## 🌐 Connect with me
 
-1. Numbered
-2. List
+- LinkedIn: [neel-linkedin]((https://www.linkedin.com/in/neelshah10/))
 
-**Bold** and _Italic_ and `Code` text
+## 🚀 Let's Innovate with Data!
 
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Roadmap
-
-See the [open issues](https://github.com/evanca/quick-portfolio/issues) for a list of proposed features (and known issues).
-___
-
-### References
-
-[1] Jekyll theme "Minimal" for GitHub Pages: https://github.com/pages-themes/minimal (CC0 1.0 Universal License)
-<br>[2] Dummy photo via: https://pixabay.com/photos/man-male-adult-person-caucasian-1209494/ (Pixabay License)
-<br>[3] Dummy thumbnail image created by rawpixel.com: https://www.freepik.com/free-vector/set-elements-infographic_2807573.htm (Standard Freepik License)
+I'm constantly exploring new datasets, experimenting with cutting-edge tools, and seeking innovative ways to present insights. Connect with me to be a part of the data-driven journey. Let's unlock the true potential of data together!
