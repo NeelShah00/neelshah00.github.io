@@ -5,7 +5,7 @@
 ### Category Name 1 
 
 [Kreative Global Services](/sample_page)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+<img src="images/Thumbnail1.png?raw=true"/>
 
 
 ---
