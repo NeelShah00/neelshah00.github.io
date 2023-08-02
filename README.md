@@ -6,6 +6,8 @@
 
 👋 Hello, fellow data enthusiasts! I'm Neel, a passionate Data Analyst on a mission to uncover the hidden stories behind data. Armed with a degree in Data Science and a curious mind, I thrive on exploring datasets to extract valuable insights and drive data-informed decisions.
 
+🔭 I'm keen on learning new data visualization tools and believe that presenting data in a visually compelling way is crucial for effective communication. I'm constantly on the lookout to explore new data visualization tools and techniques to make data come alive.
+
 ## 📚 Skills
 
 - Data Cleaning and Preprocessing
@@ -31,11 +33,11 @@
 
 ## 📫 Contact
 
-📧 Feel free to reach out to me at [neel@email.com](mailto:neelnshah1998@gmail.com) for any collaboration opportunities or to discuss data-related projects.
+📧 Feel free to reach out to me at [neelnshah1998@gmail.com](mailto:neelnshah1998@gmail.com) to discuss data-related projects.
 
 ## 🌐 Connect with me
 
-- LinkedIn: [neel-linkedin]((https://www.linkedin.com/in/neelshah10/))
+- LinkedIn: [neel-linkedin](https://www.linkedin.com/in/neelshah10/)
 
 ## 🚀 Let's Innovate with Data!
 
