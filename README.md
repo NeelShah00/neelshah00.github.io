@@ -1,6 +1,6 @@
 # Neel's Data Analyst Portfolio
 
-![Data Analyst](https://img.shields.io/badge/Role-Data%20Analyst-blue) ![Business Intelligence Analyst](https://img.shields.io/badge/Role-Data%20Analyst-green)
+![Data Analyst](https://img.shields.io/badge/Role-Data%20Analyst-blue) ![Business Intelligence Analyst](https://img.shields.io/badge/Role-Business%20Intelligence%20Analyst-green)
 
 ## About Me
 
