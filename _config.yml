@@ -3,8 +3,7 @@ logo: "images/Profile picture.png" # your photo (or logo) here
 description: > # your text below (remove <br> elements if you don't need line breaks)
   Hello! I'm Neel, an aspiring Data Analyst with a passion for extracting insights from data.
   <br><br>
-  Second description 
-  <br><br>
+ I am a lifelong learner with a background in mathematics and programming, I thrive on exploring new data analysis techniques and tools. I love to tackle complex data challenges, be it cleaning messy data, creating interactive visualizations, or building predictive models. Each step of the data analysis journey brings me joy and a sense of fulfillment.
   <a href="https://www.linkedin.com/in/neelshah10/">View My LinkedIn Profile</a> 
   
 remote_theme: pages-themes/minimal@v0.2.0
