@@ -14,25 +14,28 @@
 
 ### Analysis
 
-1. Kreative Global Services Analysis Portfolio
+#### Kreative Global Services Analysis Portfolio
 
-<img src="images/CGS(1).png?raw=true"/>
+![Kreative Global Services Analysis](images/CGS(1).png?raw=true)
 
-2.  USA is leading the chart of sales. The company will do well in the coming years as forecasted. Gaming Accessories is the most discounted service. VFX is the most profitable service over time.
-<img src="images/CGS(2).png?raw=true"/>
+## Key Findings
 
-3. Age group 18-20 years have max no.of customers. Textures have shown constant growth in ratings over the years. Gaming Accessories and KGS games are almost equally popular among M & F.
+1. 📊 USA is leading the chart of sales. The company is projected to do well in the coming years. 💹 Gaming Accessories is the most discounted service, while 💰 VFX stands out as the most profitable service over time.
 
-<img src="images/CGS(3).png?raw=true"/>
+2. 📈 Age group 18-20 years has the highest number of customers. Textures have shown consistent growth in ratings over the years. 🎮 Gaming Accessories and KGS games are almost equally popular among both male and female customers.
 
-4. Henderson has given the highest revenue. Animation has the most no. of experienced Staff.
+3. 💼 Henderson has generated the highest revenue, showcasing its significance in driving business. 💼 Animation has the most number of experienced staff members, contributing to the company's creative prowess.
 
-<img src="images/CGS(4).png?raw=true"/>
+4. ⭐ No customer has rated the service with 1 star 😀. 💲 VFX has the highest sales over the years, emphasizing its demand among customers. 📅 Maximum low-cost services have been sold in the year 2020.
 
-5. No customer has rated 1 star😀. VFX has most sales over the years. Max low-cost services has been sold in the year 2020.
- 
-<img src="images/CGS(5).png?raw=true"/>
+![Data Analysis Findings](images/CGS(2).png?raw=true)
+![Customer Demographics](images/CGS(3).png?raw=true)
+![Revenue and Staff Analysis](images/CGS(4).png?raw=true)
+![Customer Ratings and Sales Analysis](images/CGS(5).png?raw=true)
 
-6. Ending Slide
+## Conclusion
 
-<img src="images/CGS(6).png?raw=true"/>
+The journey of Kreative Global Services is filled with remarkable insights and opportunities for growth. With USA leading the way and VFX soaring high, the company is on the path to success. By understanding customer demographics and preferences, KGS can continue to innovate and deliver top-notch gaming experiences to all. The future is bright for Kreative Global Services as they continue to delight customers and scale new heights in the gaming industry.
+
+![Ending Slide](images/CGS(6).png?raw=true)
+
