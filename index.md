@@ -4,7 +4,7 @@
 
 ### Category Name 1 
 
-[Kreative Global Services](/sample_page)
+[Kreative Global Services](/KGS_analysis)
 <img src="images/Thumbnail1.png"/>
 
 
