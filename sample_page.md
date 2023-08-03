@@ -29,8 +29,11 @@
 4. ⭐ No customer has rated the service with 1 star 😀. 💲 VFX has the highest sales over the years, emphasizing its demand among customers. 📅 Maximum low-cost services have been sold in the year 2020.
 
 ![Data Analysis Findings](images/CGS(2).png?raw=true)
+
 ![Customer Demographics](images/CGS(3).png?raw=true)
+
 ![Revenue and Staff Analysis](images/CGS(4).png?raw=true)
+
 ![Customer Ratings and Sales Analysis](images/CGS(5).png?raw=true)
 
 ## Conclusion
