@@ -2,15 +2,15 @@
 
 **Business Background:** Kreative Global Services is a dynamic firm specializing in providing a wide range of gaming services and accessories, catering to gaming enthusiasts and game development businesses alike. Our company aims to empower gamers with cutting-edge technology and resources, enabling them to have immersive gaming experiences across various platforms. Additionally, we offer game development materials and tutorials for aspiring developers to create their own gaming masterpieces.
 
-### 1. Suggest hypotheses about the causes of observed phenomena
+### Technology Used
 
-Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo. 
-
-```javascript
-if (isAwesome){
-  return true
-}
-```
+<table>
+  <tr>
+    <td>🔹 Tableau Data Prep</td>
+    <td>🔹 Tableau</td>
+    <td>🔹 Excel</td>
+  </tr>
+</table>
 
 ### 2. Assess assumptions on which statistical inference will be based
 
