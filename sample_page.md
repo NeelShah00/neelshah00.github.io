@@ -6,7 +6,6 @@
 
 <table>
   <tr>
-    <td>🔹 Tableau Data Prep</td>
     <td>🔹 Tableau</td>
     <td>🔹 Excel</td>
   </tr>
@@ -18,7 +17,7 @@
 
 ![Kreative Global Services Analysis](images/CGS(1).png?raw=true)
 
-## Key Findings
+### Key Findings
 
 1. 📊 USA is leading the chart of sales. The company is projected to do well in the coming years. 💹 Gaming Accessories is the most discounted service, while 💰 VFX stands out as the most profitable service over time.
 
@@ -35,6 +34,16 @@
 ![Revenue and Staff Analysis](images/CGS(4).png?raw=true)
 
 ![Customer Ratings and Sales Analysis](images/CGS(5).png?raw=true)
+
+### Approaches Used
+
+To conduct this analysis, the following data-driven approach was employed:
+
+1. **Data Creation and Cleaning**: Imaginary data was created using Excel, and Excel formulas were used to clean and preprocess the data. This ensured the data was accurate and ready for analysis.
+
+2. **Data Visualization in Tableau**: Tableau's powerful capabilities were leveraged, utilizing calculated fields, forecasting, and a plethora of visualization types to uncover hidden insights. The interactive visualizations helped present the data in a compelling and easy-to-understand manner.
+
+3. **Iterative Analysis**: Different angles of the data were iteratively explored to derive meaningful insights. Through this iterative process, data-driven decisions were made, paving the way for significant discoveries.
 
 ## Conclusion
 
