@@ -1,6 +1,6 @@
-## This can be your internal website page / project page
+## Kreative Global Services Analysis
 
-**Project description:** Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+**Project description:** Kreative Global Services is a dynamic firm specializing in providing a wide range of gaming services and accessories, catering to gaming enthusiasts and game development businesses alike. Our company aims to empower gamers with cutting-edge technology and resources, enabling them to have immersive gaming experiences across various platforms. Additionally, we offer game development materials and tutorials for aspiring developers to create their own gaming masterpieces.
 
 ### 1. Suggest hypotheses about the causes of observed phenomena
 
