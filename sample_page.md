@@ -12,20 +12,22 @@
   </tr>
 </table>
 
-### 2. Assess assumptions on which statistical inference will be based
+### Analysis
 
-```javascript
-if (isAwesome){
-  return true
-}
-```
+1. 
+<img src="images/CGS(1).png?raw=true"/>
 
-### 3. Support the selection of appropriate statistical tools and techniques
+2. 
+<img src="images/CGS(2).png?raw=true"/>
 
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+3. 
+<img src="images/CGS(3).png?raw=true"/>
 
-### 4. Provide a basis for further data collection through surveys or experiments
+4. 
+<img src="images/CGS(4).png?raw=true"/>
 
-Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo. 
+5. 
+<img src="images/CGS(5).png?raw=true"/>
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+6.
+<img src="images/CGS(6).png?raw=true"/>
