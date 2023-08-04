@@ -10,13 +10,9 @@ Explore the dynamic world of gaming services and discover captivating insights f
 
 ---
 
-### 💼 Category Name 2
+### Techconnect Inc. Sales Analysis
 
-- [Project 1 Title](http://example.com/)
-- [Project 2 Title](http://example.com/)
-- [Project 3 Title](http://example.com/)
-- [Project 4 Title](http://example.com/)
-- [Project 5 Title](http://example.com/)
+[![Techconnect Inc. Sales Analysis Thumbnail](images/TCS/Techconnect_thumbnail.png)](/Pages/KGS_analysis)
 
 ---
 
