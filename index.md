@@ -10,10 +10,11 @@ Explore the dynamic world of gaming services and discover captivating insights f
 
 ---
 
-### Techconnect Inc. Sales Analysis
+### 💼 Techconnect Inc. Sales Analysis
 
-[![Techconnect Inc. Sales Analysis Thumbnail](images/TCS/Techconnect_thumbnail.png)](/Pages/KGS_analysis)
+[![Techconnect Inc. Sales Analysis Thumbnail](images/TCS/Techconnect_thumbnail.png)](/Pages/Techconnect_sales_Analyst)
 
+Embark on an extraordinary journey through the realm of electronic appliances as I unravel fascinating data-driven stories.
 ---
 
 Let the magic of data unfold as we delve into exciting projects and creative endeavors! 🚀🌌
