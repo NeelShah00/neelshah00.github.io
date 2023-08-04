@@ -10,8 +10,6 @@
   </tr>
 </table>
 
-### Analysis
-
 #### TechConnect Inc. Dashboard
 
 [![TechConnect Inc. Dashboard](/images/TCS/Techconnect_Sales_Analysis.png?raw=true)](/images/TCS/Techconnect_Sales_Analysis.png?raw=true)
@@ -35,7 +33,7 @@ Intriguing data insights await as we unravel the fascinating sales analysis of T
 
 **Sparkling Showcase** 🌟: In the heart of the USA, the Kansas City store stands tall, boasting a dazzling array of 63 items. A treasure trove of choices awaits visitors, making it a haven for the discerning shopper.
 
-### Approaches Used
+## Approaches Used
 
 To conduct this analysis, the following data-driven approach was employed:
 
