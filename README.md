@@ -11,7 +11,7 @@
 ## 📚 Skills
 
 - Data Cleaning and Preprocessing
-- Data Visualization using Python and Tableau
+- Data Visualization using PowerBI, Python and Tableau
 - Statistical Analysis and Hypothesis Testing
 - SQL and Database Management
 - Python for Data Analysis (Pandas, NumPy)
@@ -21,7 +21,7 @@
 
 1. **Sales Data Analysis**
    - Analyzed sales data to identify trends and optimize product recommendations.
-   - Tools used: Python, Pandas, Matplotlib.
+   - Tools used: Excel and Tableau.
 
 2. **Customer Segmentation**
    - Conducted clustering analysis to segment customers based on behavior.
