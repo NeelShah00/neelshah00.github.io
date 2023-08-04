@@ -4,7 +4,7 @@
 
 ### 🎮 Kreative Global Services Analysis 
 
-[![Kreative Global Services Thumbnail](images/Thumbnail1.png)](/KGS_analysis)
+[![Kreative Global Services Thumbnail](images/Thumbnail1.png)](Pages/KGS_analysis)
 
 Explore the dynamic world of gaming services and discover captivating insights from data analysis.
 
