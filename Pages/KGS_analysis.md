@@ -15,7 +15,7 @@
 
 #### Kreative Global Services Analysis Portfolio
 
-[![Kreative Global Services Analysis](images/CGS/CGS(1).png?raw=true)](images/CGS/CGS(1).png?raw=true)
+[![Kreative Global Services Analysis](/images/CGS/CGS(1).png?raw=true)](/images/CGS/CGS(1).png?raw=true)
 
 ### Key Findings
 
