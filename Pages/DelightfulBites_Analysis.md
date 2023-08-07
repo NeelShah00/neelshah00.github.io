@@ -267,8 +267,7 @@ plt.show()
 ```
 
 
-    
-![png](output_32_0.png)
+[![DelightfulBites_Analysis](/images/DB/output_32_0.png?raw=true)](/images/DB/output_32_0.png?raw=true)    
     
 
 ```python
@@ -284,9 +283,8 @@ plt.title("Top 10 Most Popular Restaurants")
 plt.show()
 ```
 
-    
-![png](output_34_0.png)
-    
+[![DelightfulBites_Analysis](/images/DB/output_34_0.png?raw=true)](/images/DB/output_34_0.png?raw=true)    
+
 
 ```python
 import pandas as pd
@@ -320,87 +318,81 @@ for cuisine_type, group in restaurant_counts.groupby("cuisine_type"):
 
 ```
 
-
-    
-![png](output_36_0.png)
-    
-
+[![DelightfulBites_Analysis](/images/DB/output_36_0.png?raw=true)](/images/DB/output_36_0.png?raw=true)    
 
 
     
-![png](output_36_1.png)
-    
+[![DelightfulBites_Analysis](/images/DB/output_36_1.png?raw=true)](/images/DB/output_36_1.png?raw=true)    
 
 
 
     
-![png](output_36_2.png)
-    
+[![DelightfulBites_Analysis](/images/DB/output_36_2.png?raw=true)](/images/DB/output_36_2.png?raw=true)
 
 
 
     
-![png](output_36_3.png)
+[![DelightfulBites_Analysis](/images/DB/output_36_3.png?raw=true)](/images/DB/output_36_3.png?raw=true)
     
 
 
 
     
-![png](output_36_4.png)
+[![DelightfulBites_Analysis](/images/DB/output_36_4.png?raw=true)](/images/DB/output_36_4.png?raw=true)
     
 
 
 
     
-![png](output_36_5.png)
+[![DelightfulBites_Analysis](/images/DB/output_36_5.png?raw=true)](/images/DB/output_36_5.png?raw=true)
     
 
 
 
     
-![png](output_36_6.png)
+[![DelightfulBites_Analysis](/images/DB/output_36_6.png?raw=true)](/images/DB/output_36_6.png?raw=true)
     
 
 
 
     
-![png](output_36_7.png)
+[![DelightfulBites_Analysis](/images/DB/output_36_7.png?raw=true)](/images/DB/output_36_7.png?raw=true)
     
 
 
 
     
-![png](output_36_8.png)
+[![DelightfulBites_Analysis](/images/DB/output_36_8.png?raw=true)](/images/DB/output_36_8.png?raw=true)
     
 
 
 
     
-![png](output_36_9.png)
+[![DelightfulBites_Analysis](/images/DB/output_36_9.png?raw=true)](/images/DB/output_36_9.png?raw=true)
     
 
 
 
     
-![png](output_36_10.png)
+[![DelightfulBites_Analysis](/images/DB/output_36_10.png?raw=true)](/images/DB/output_36_10.png?raw=true)
     
 
 
 
     
-![png](output_36_11.png)
+[![DelightfulBites_Analysis](/images/DB/output_36_11.png?raw=true)](/images/DB/output_36_11.png?raw=true)
     
 
 
 
     
-![png](output_36_12.png)
+[![DelightfulBites_Analysis](/images/DB/output_36_12.png?raw=true)](/images/DB/output_36_12.png?raw=true)
     
 
 
 
     
-![png](output_36_13.png)
+[![DelightfulBites_Analysis](/images/DB/output_36_13.png?raw=true)](/images/DB/output_36_13.png?raw=true)
     
 
 ```python
@@ -431,8 +423,7 @@ plt.show()
 ```
 
 
-    
-![png](output_41_0.png)
+[![DelightfulBites_Analysis](/images/DB/output_41_0.png?raw=true)](/images/DB/output_41_0.png?raw=true)
     
 
 ```python
