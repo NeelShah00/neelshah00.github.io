@@ -339,3 +339,6 @@ print("Correlation between food_prep_time and rating: ", corr_rounded)
     Correlation between food_prep_time and rating:  -0.01
     
 A correlation coefficient of -0.01 between food preparation time and rating indicates a very weak negative correlation between the two variables. This means that there is little to no linear relationship between the amount of time it takes to prepare the food and the rating given by customers.
+
+### Conclusion
+In the realm of DelightfulBites, a culinary tapestry woven with data-driven insights reveals intriguing narratives. American cuisine emerges as the dominant protagonist, boasting 41 flourishing restaurants that grace the vibrant landscape. Amidst this flavorful symphony, Shake Shack emerges as the shining star, captivating palates and hearts alike. With an impressive 11.5% share of the culinary limelight, it stands as the beacon of culinary excellence within this delectable journey. The data paints a portrait of culinary diversity, where American cuisines thrive and Shake Shack reigns as the revered cornerstone, elevating the essence of DelightfulBites to captivating heights. 🍔🌮🍕🍟🍗
