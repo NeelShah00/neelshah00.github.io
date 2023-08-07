@@ -1,3 +1,13 @@
+<!-- Google tag (gtag.js) -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-H8BFJ6XEH0"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'G-H8BFJ6XEH0');
+</script>
+
 ## TechConnect Inc. Sales Analysis
 
 **Business Background:** TechConnect Inc. is a renowned global electronic appliance company, offering a wide range of high-quality products, including microwaves, irons, ceiling fans, and various other digital appliances. With a strong network of salesmen and distributors, TechConnect prioritizes customer satisfaction, eco-friendliness, and personalized service. Embracing innovation, they aim to enrich lives and homes worldwide, forging lasting relationships with clients. Experience the essence of technology with TechConnect as they revolutionize the way we interact with digital appliances, ensuring delightful and memorable experiences.
