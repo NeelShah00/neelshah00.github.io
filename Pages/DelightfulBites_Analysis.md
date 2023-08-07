@@ -12,8 +12,7 @@
 
 ### Analysis
 
-### 1.1 Data Loading
-
+**Data Loading**: Efficiently load and preprocess DelightfulBites' diverse culinary data for insightful analysis using Python and Jupyter Notebook.
 
 ```python
 # Load the Required libraries
@@ -66,7 +65,8 @@ print(df.head(10))
     8             26  
     9             26  
 
-### 1.2 Data Description
+
+**Data Description**: Explore DelightfulBites' rich culinary dataset, encompassing restaurant details, cuisine types, costs, ratings, and more for comprehensive analysis.
 
  ```python
 # Defining the datatypes of the features
@@ -127,7 +127,8 @@ print(df.nunique())
     delivery_time              19
     dtype: int64
 
-### 1.3 Data Manipulation
+
+**Data Manipulation**: Harness the power of Python and Jupyter Notebook to transform, cleanse, and reshape DelightfulBites' culinary data, paving the way for meaningful insights and informed decision-making.
 
 ```python
 # Define a lambda function to calculate total time
@@ -177,7 +178,7 @@ print(df.head(10))
     9             26          55  
     
 
-### 1.4 Statistics
+**Statistics**: Dive into DelightfulBites' data using Python and Jupyter Notebook to uncover valuable statistical insights, illuminating trends, patterns, and key metrics that drive culinary excellence.
 
 ```python
 # Extract the unique values in the "cuisine" column
@@ -218,7 +219,8 @@ print(restaurants_per_cuisine)
     Name: restaurant_name, dtype: int64
     
 
-### 1.5 Visualization
+
+**Visualization**: Employ Python and Jupyter Notebook to craft captivating visual representations of DelightfulBites' culinary data, enabling intuitive exploration and clear communication of trends, flavors, and customer preferences.
 
 ```python
 # Import the required library for visualization
