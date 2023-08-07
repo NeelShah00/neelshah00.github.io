@@ -1,3 +1,13 @@
+<!-- Google tag (gtag.js) -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-H8BFJ6XEH0"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'G-H8BFJ6XEH0');
+</script>
+
 ## Kreative Global Services Analysis
 
 **Business Background:** Kreative Global Services is a dynamic firm specializing in providing a wide range of gaming services and accessories, catering to gaming enthusiasts and game development businesses alike. Our company aims to empower gamers with cutting-edge technology and resources, enabling them to have immersive gaming experiences across various platforms. Additionally, we offer game development materials and tutorials for aspiring developers to create their own gaming masterpieces.
