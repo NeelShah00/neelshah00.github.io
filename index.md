@@ -28,4 +28,12 @@ Embark on an extraordinary journey through the realm of electronic appliances as
 
 ---
 
+### DelightfulBites Analysis
+
+[![DelightfulBites Analysis Thumbnail](images/DB/DelightfulBites_Thumbnail.png)](/Pages/DelightfulBites_Analysis)
+
+Embark on an extraordinary journey through the realm of electronic appliances as I unravel fascinating data-driven stories.
+
+---
+
 Let the magic of data unfold as we delve into exciting projects and creative endeavors! 🚀🌌
