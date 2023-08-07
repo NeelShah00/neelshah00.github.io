@@ -20,16 +20,10 @@
 import pandas as pd
 ```
 
-Image
-
-
 ```python
 # loading the dataset into pandas dataframe
 df = pd.read_csv("food_order.csv")
 ```
-
-Image
-
 
 ```python
 # Displaying the first 10 rows of the dataset
@@ -72,7 +66,7 @@ print(df.head(10))
     8             26  
     9             26  
 
-    ### 1.2 Data Description
+### 1.2 Data Description
 
  ```python
 # Defining the datatypes of the features
@@ -237,9 +231,7 @@ plt.pie(restaurants_per_cuisine, labels=restaurants_per_cuisine.index, autopct='
 plt.title("Number of Restaurants per Cuisine Type")
 plt.show()
 ```
-    
-![png](output_27_0.png)
-    
+[![DelightfulBites_Analysis](/images/DB/output_27_0.png?raw=true)](/images/DB/output_27_0.png?raw=true)        
 
 ```python
 # Select the top 5 cuisine types based on the count of unique restaurants
