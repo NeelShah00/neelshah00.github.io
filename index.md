@@ -29,7 +29,7 @@
 
 Explore the dynamic world of gaming services and embark on an exhilarating journey to uncover captivating insights through the art of data analysis.
 
-<span class="hashtag"">#Tableau #Excel</span>
+<span class="hashtag">#Tableau</span> <span class="hashtag">#Excel</span>
 ---
 
 ### 💼 Techconnect Inc. Sales Analysis
