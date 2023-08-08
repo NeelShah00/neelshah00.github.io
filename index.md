@@ -18,6 +18,7 @@
 
 Explore the dynamic world of gaming services and embark on an exhilarating journey to uncover captivating insights through the art of data analysis.
 
+<span style="color:#FF5733">#Tableau #Excel</span>
 ---
 
 ### 💼 Techconnect Inc. Sales Analysis
@@ -26,6 +27,7 @@ Explore the dynamic world of gaming services and embark on an exhilarating journ
 
 Embark on an extraordinary voyage through the realm of electronic appliances as I skillfully unravel enthralling data-driven stories that illuminate the path to success.
 
+<span style="color:#FF5733">#Excel</span>
 ---
 
 ### 🍽️ DelightfulBites Analysis
@@ -34,6 +36,7 @@ Embark on an extraordinary voyage through the realm of electronic appliances as 
 
 Embark on a tantalizing culinary adventure through the world of DelightfulBites, where data takes center stage to unravel the flavorful narratives behind every dish.
 
+<span style="color:#FF5733">#Python</span>
 ---
 
 Let the magic of data unfold as we delve into exciting projects and creative endeavors! 🚀🌌
