@@ -1,13 +1,9 @@
-<!DOCTYPE html>
-<html>
-<head>
-  <link rel="icon" href="/images/Website_logo.jpeg" type="image/x-icon">
-</head>
-<body>
-
 ## 🌟 Welcome to My Portfolio 🌟
 
 ---
+
+<!-- Favicon -->
+<link rel="icon" href="/images/Website_logo.jpeg" type="image/x-icon">
 
 ### 🎮 Kreative Global Services Analysis 
 
@@ -36,8 +32,4 @@
 
 ---
 
-Unleash the enchantment of data as we embark on exciting projects and journey through the realms of 
-#Tableau #HTML #Excel, embracing the magic of insights and creativity! 🚀🌌
-
-</body>
-</html>
+Let the magic of data unfold as we delve into exciting projects and creative endeavors! 🚀🌌
