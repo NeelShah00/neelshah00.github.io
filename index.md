@@ -9,8 +9,8 @@
 
 [![Kreative Global Services Thumbnail](images/CGS/Thumbnail1.png)](/Pages/KGS_analysis)
 
-🎮 Explore the dynamic world of gaming services and embark on an exhilarating journey to uncover captivating insights through the art of data analysis. 
-#DataAnalysis #Gaming #Insights
+ Explore the dynamic world of gaming services and embark on an exhilarating journey to uncover captivating insights through the art of data analysis. 
+#Excel #Tableau
 
 ---
 
@@ -18,8 +18,8 @@
 
 [![Techconnect Inc. Sales Analysis Thumbnail](images/TCS/Techconnect_thumbnail.png)](/Pages/Techconnect_Sales_Analysis)
 
-💼 Embark on an extraordinary voyage through the realm of electronic appliances as I skillfully unravel enthralling data-driven stories that illuminate the path to success. 
-#DataAnalysis #Electronics #Success
+ Embark on an extraordinary voyage through the realm of electronic appliances as I skillfully unravel enthralling data-driven stories that illuminate the path to success. 
+#Excel
 
 ---
 
@@ -27,8 +27,15 @@
 
 [![DelightfulBites Analysis Thumbnail](images/DB/DelightfulBites_Thumbnail.png)](/Pages/DelightfulBites_Analysis)
 
-🍽️ Embark on a tantalizing culinary adventure through the world of DelightfulBites, where data takes center stage to unravel the flavorful narratives behind every dish. 
-#DataAnalysis #CulinaryExploration
+ Embark on a tantalizing culinary adventure through the world of DelightfulBites, where data takes center stage to unravel the flavorful narratives behind every dish. 
+#Python
+
+---
+
+### 🍽️ DelightfulBites Analysis
+
+[![Canada Population Report Thumbnail](images/CA_Population_Report/Canada_Population_Banner.png)](/Pages/CA_Population_Report)
+
 
 ---
 
