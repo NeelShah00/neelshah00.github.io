@@ -32,7 +32,7 @@
 
 ---
 
-### 🍽️ DelightfulBites Analysis
+### Canada Population Report
 
 [![Canada Population Report Thumbnail](images/CA_Population_Report/Canada_Population_Banner.png)](/Pages/CA_Population_Report)
 
