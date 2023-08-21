@@ -16,17 +16,17 @@
 
 ### Key Findings
 
-**#### 🌍 Emigration Trends:** Between 1955 and 2023, a total of 3 million migrants departed from Canada.
+** 🌍 Emigration Trends:** Between 1955 and 2023, a total of 3 million migrants departed from Canada.
 
-**#### 🌐 Global Demographic Contribution:** Canada's demographic impact on the world population remained modest, constituting only 0.48%.
+** 🌐 Global Demographic Contribution:** Canada's demographic impact on the world population remained modest, constituting only 0.48%.
 
-**#### 🕰 Shift in Median Age:** The median age of Canadians underwent a substantial transformation, increasing from 26.30 years in 1955 to 40.60 years in 2023, indicating a significant demographic shift.
+** 🕰 Shift in Median Age:** The median age of Canadians underwent a substantial transformation, increasing from 26.30 years in 1955 to 40.60 years in 2023, indicating a significant demographic shift.
 
-**#### 📈 Population Growth Trajectory:** Over the 68-year period, Canada's population experienced significant growth, surging from 15 million in 1955 to 38 million in 2023.
+** 📈 Population Growth Trajectory:** Over the 68-year period, Canada's population experienced significant growth, surging from 15 million in 1955 to 38 million in 2023.
 
-**#### 👶 Fertility Dynamics:** The fertility rate in Canada initiated at 3.83% in 1955, gradually diminishing over time to reach 1.47% by 2023.
+** 👶 Fertility Dynamics:** The fertility rate in Canada initiated at 3.83% in 1955, gradually diminishing over time to reach 1.47% by 2023.
 
-**#### 📉 Impact on Population Growth Rate:** The declining fertility rate directly affected Canada's population growth rate, causing it to decline from 2.74% in 1955 to 0.85% in 2023.
+** 📉 Impact on Population Growth Rate:** The declining fertility rate directly affected Canada's population growth rate, causing it to decline from 2.74% in 1955 to 0.85% in 2023.
 
 ### Enhanced Report Functionality
 
