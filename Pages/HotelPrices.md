@@ -1,4 +1,4 @@
-## Hotel Prices in Mumbai Report
+## Hotel Prices in Mumbai Analysis 🏨
 
 **Background Information:** The Hotel Prices in Mumbai Report presents a comprehensive analysis using data sourced from Kaggle, a renowned platform for datasets and machine learning challenges. Focused on the vibrant city of Mumbai, the report delves into crucial factors influencing hotel prices, including the hotel's name, price range, star ratings, and proximity to landmarks. Leveraging this diverse dataset, the report aims to unravel insights into the dynamic landscape of hotel accommodations, aiding travellers and stakeholders in making informed decisions for an enriched experience in Mumbai.
 
