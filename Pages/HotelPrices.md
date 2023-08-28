@@ -13,7 +13,7 @@
 
 ### 📊 Analysis
 
-[Click here to view the Looker Studio report](https://lookerstudio.google.com/embed/reporting/0749cfa0-6a18-405d-ae91-4c3d01612c1d/page/IcWaD)
+<iframe width="600" height="450" src="https://lookerstudio.google.com/embed/reporting/0749cfa0-6a18-405d-ae91-4c3d01612c1d/page/p_o6v6i5fa9c" frameborder="0" style="border:0" allowfullscreen></iframe>
 
 <! --[![Hotel Prices in Mumbai](/images/HotelPrices/Google%20looker%20Cover.png?raw=true)](/images/HotelPrices/Google%20looker%20Cover.png?raw=true)-->
 
