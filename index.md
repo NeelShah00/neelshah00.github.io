@@ -33,7 +33,15 @@
 
 [![Canada Population Report Thumbnail](images/CA_Population_Report/Canada_Population_Banner.png)](/Pages/CA_Population_Report)
 
- Dive into a comprehensive exploration of Canada's demographic evolution, unraveling the tales of emigration, age shifts, and population growth. 🇨🇦📊
+ Dive into a comprehensive exploration of Canada's demographic evolution, unraveling the tales of emigration, age shifts, and population growth. 🇨🇦📊 #PowerBI
+
+---
+
+### Hotel Prices in Mumbai Analysis 🏨
+
+[![Hotel Prices in Mumbai](/images/HotelPrices/Google%20looker%20Cover.png)](/Pages/HotelPrices)
+
+Unveil the secrets of Mumbai's vibrant hospitality scene with a data-driven exploration of hotel prices. From pocket-friendly stays to luxurious escapes, discover a range of options that cater to every traveller's budget. 💰 #Excel #Google_Looker_Studio
 
 ---
 
