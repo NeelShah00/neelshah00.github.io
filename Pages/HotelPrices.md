@@ -15,16 +15,21 @@
 
 **Embedded Report**
 
-<iframe width="600" height="450" src="https://lookerstudio.google.com/embed/reporting/0749cfa0-6a18-405d-ae91-4c3d01612c1d/page/p_o6v6i5fa9c" frameborder="0" style="border:0" allowfullscreen></iframe>
+<iframe width="600" height="450" src="https://lookerstudio.google.com/embed/reporting/0749cfa0-6a18-405d-ae91-4c3d01612c1d/page/IcWaD" frameborder="0" style="border:0" allowfullscreen></iframe>
 
 **Report Pages**
 
-[![Hotel Prices in Mumbai Page 1](/images/HotelPrices/HP01.png?raw=true)](/images/HotelPrices/HP01.png?raw=true) - Page 1
+- Page 1
+  
+[![Hotel Prices in Mumbai Page 1](/images/HotelPrices/HP01.png?raw=true)](/images/HotelPrices/HP01.png?raw=true) 
 
-[![Hotel Prices in Mumbai Page 2](/images/HotelPrices/HP02.png?raw=true)](/images/HotelPrices/HP02.png?raw=true) - Page 2
+- Page 2
+  
+[![Hotel Prices in Mumbai Page 2](/images/HotelPrices/HP02.png?raw=true)](/images/HotelPrices/HP02.png?raw=true) 
 
-[![Hotel Prices in Mumbai Page 3](/images/HotelPrices/HP03.png?raw=true)](/images/HotelPrices/HP03.png?raw=true) - Page 3
-
+- Page 3
+  
+[![Hotel Prices in Mumbai Page 3](/images/HotelPrices/HP03.png?raw=true)](/images/HotelPrices/HP03.png?raw=true) 
 
 
 ### Key Findings
@@ -63,4 +68,4 @@
 
 ## 📝 Conclusion
 
-Embarking on Mumbai's hotel journey reveals a range of options catering to diverse preferences and budgets. Proximity to the airport ensures seamless travel, while prices span from luxury to affordability. The constellation of 4 and 5-star-rated hotels near the airport reflects a commitment to comfort. Enclaves like Andheri West and Bandra Kurla Complex offer unique experiences. Guest reviews echo with "Very Good" and "Excellent" ratings. Distance to landmarks further enhances the stay. Mumbai's hotels offer a canvas painted with choice, comfort, and distinction, making each visit a memorable chapter in the city's dynamic story. 🏨🌆🌟
+Embarking on a Mumbai hotel journey unveils options for all budgets. Airport proximity ensures smooth travel, while prices span luxury to affordability. 4 and 5-star hotels near the airport promise comfort. Unique experiences await in enclaves like Andheri West and Bandra Kurla Complex. Guest reviews sing "Very Good" and "Excellent" ratings. Landmark proximity enhances stays. Mumbai's hotels offer choice, comfort, and distinction, turning each visit into a memorable chapter in the city's dynamic story.
