@@ -37,7 +37,7 @@
 
 ---
 
-### Hotel Prices in Mumbai Analysis 🏨
+### 🏨 Hotel Prices in Mumbai Analysis 
 
 [![Hotel Prices in Mumbai](/images/HotelPrices/Google%20looker%20Cover.png)](/Pages/HotelPrices)
 
