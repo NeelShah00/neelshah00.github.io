@@ -11,6 +11,8 @@
 
  Explore the dynamic world of gaming services and embark on an exhilarating journey to uncover captivating insights through the art of data analysis. 🎮📊 #Excel #Tableau
 
+[**See More**](/Pages/KGS_analysis)
+
 ---
 
 ### 💼 Techconnect Inc. Sales Analysis
@@ -18,6 +20,8 @@
 [![Techconnect Inc. Sales Analysis Thumbnail](images/TCS/Techconnect_thumbnail.png)](/Pages/Techconnect_Sales_Analysis)
 
  Embark on an extraordinary voyage through the realm of electronic appliances as I skillfully unravel enthralling data-driven stories that illuminate the path to success. 🛍️📈 #Excel
+
+[**See More**](/Pages/Techconnect_Sales_Analysis)
 
 ---
 
@@ -27,6 +31,8 @@
 
  Embark on a tantalizing culinary adventure through the world of DelightfulBites, where data takes center stage to unravel the flavorful narratives behind every dish. 🍽️📊 #Python
 
+[**See More**](/Pages/DelightfulBites_Analysis)
+
 ---
 
 ### 🌍 Canada Population Report
@@ -35,6 +41,8 @@
 
  Dive into a comprehensive exploration of Canada's demographic evolution, unraveling the tales of emigration, age shifts, and population growth. 🇨🇦📊 #PowerBI
 
+[**See More**](/Pages/CA_Population_Report)
+
 ---
 
 ### 🏨 Hotel Prices in Mumbai Analysis 
@@ -42,6 +50,8 @@
 [![Hotel Prices in Mumbai](/images/HotelPrices/Google%20looker%20Cover.png)](/Pages/HotelPrices)
 
 Unveil the secrets of Mumbai's vibrant hospitality scene with a data-driven exploration of hotel prices. From pocket-friendly stays to luxurious escapes, discover a range of options that cater to every traveller's budget. 💰 #Excel #Google_Looker_Studio
+
+[**See More**](/Pages/HotelPrices)
 
 ---
 
