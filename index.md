@@ -57,11 +57,11 @@ Unveil the secrets of Mumbai's vibrant hospitality scene with a data-driven expl
 
 ### 🚀 Adventure Works Report
 
-[![Adventure Works Report](/images/Adventure_Works_Report/AdventureWorks_Exec_Report.png)](/Pages/Adventure_Works_Report)
+[![Adventure Works Report](/images/Adventure_Works_Report/AdventureWorks_Exec_Report.png)](/Pages/Adventure_Works_Report.md)
 
 The Adventure Works Data Analysis project is a comprehensive exploration of the company's extensive dataset, designed to unlock valuable insights and inform strategic decisions. 📈🔍💡 #PowerBI
 
-[**See More**](/Pages/Adventure_Works_Report)
+[**See More**](/Pages/Pages/Adventure_Works_Report.md)
 
 ---
 
