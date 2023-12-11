@@ -73,6 +73,8 @@ Sinkumunchis envisions an ambitious expansion plan, aiming to establish a total 
 
 ### Key Findings
 
+These findings represent the data exploration process specifically for Huayoccari. It's important to note that a similar approach was adopted for Maras and Pisac, each revealing unique insights tailored to their respective contexts.
+
 **Huayoccari Insights 🏫📊**
 
 **Student Population** 🧑‍🎓
@@ -103,4 +105,5 @@ Sinkumunchis envisions an ambitious expansion plan, aiming to establish a total 
 
 ## 📝 Conclusion
 
-Embarking on a Mumbai hotel journey unveils options for all budgets. Airport proximity ensures smooth travel, while prices span luxury to affordability. 4 and 5-star hotels near the airport promise comfort. Unique experiences await in enclaves like Andheri West and Bandra Kurla Complex. Guest reviews sing "Very Good" and "Excellent" ratings. Landmark proximity enhances stays. Mumbai's hotels offer choice, comfort, and distinction, turning each visit into a memorable chapter in the city's dynamic story.
+
+Structured a robust database and implemented an intuitive Google Looker dashboard, offering stakeholders enhanced insights for strategic decisions. The defined KPIs seamlessly aligned with mission objectives, enabling quantifiable assessment. Engaging visualizations significantly improved data comprehension, contributing to better-informed decisions and program effectiveness. Stakeholders were empowered through effective user training on Google Looker, ensuring proficient and independent data analysis. These initiatives collectively optimized program efficiency, fostering sustained growth and informed decision-making. 🚀🌐✨
