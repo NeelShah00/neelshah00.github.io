@@ -1,12 +1,19 @@
-## Hotel Prices in Mumbai Analysis 🏨
+## Sinkumunchis: Empowering Communities Through Football Schools ⚽
 
-**Background Information:** The Hotel Prices in Mumbai Report presents a comprehensive analysis using data sourced from Kaggle, a renowned platform for datasets and machine learning challenges. Focused on the vibrant city of Mumbai, the report delves into crucial factors influencing hotel prices, including the hotel's name, price range, star ratings, and proximity to landmarks. Leveraging this diverse dataset, the report aims to unravel insights into the dynamic landscape of hotel accommodations, aiding travellers and stakeholders in making informed decisions for an enriched experience in Mumbai.
+**Overview:**
+Sinkumunchis is a nonprofit organization passionately dedicated to the establishment and development of football schools. With a profound commitment to fostering growth and positive impact, Sinkumunchis has been actively operating for over two years, focusing on remote Quechua-speaking Andean communities. ⚽🌄
+
+**Current Status:**
+Presently, Sinkumunchis has successfully established three schools in the picturesque Cusco region—Maras, Pisaac, and Huayoccari. These institutions collectively serve nearly 1000 students, bringing the joy of football and education to these communities. 🏫👫
+
+**Future Vision:**
+Sinkumunchis envisions an ambitious expansion plan, aiming to establish a total of 10 schools by the end of 2025. This visionary initiative seeks to extend its reach, impacting the lives of between 3000-4000 students. The goal is to create a lasting legacy of empowerment and community enrichment through the beautiful game of football. ⚽🌍💙
 
 ### Technology Used
 
 <table>
   <tr>
-    <td>🔹 Excel</td>
+    <td>🔹 Google Sheet</td>
     <td>🔹 Google Looker Studio</td>
   </tr>
 </table>
@@ -15,22 +22,22 @@
 
 **Embedded Report**
 
-<iframe width="600" height="450" src="https://lookerstudio.google.com/embed/reporting/0749cfa0-6a18-405d-ae91-4c3d01612c1d/page/IcWaD" frameborder="0" style="border:0" allowfullscreen></iframe>
+<iframe width="600" height="450" src="https://lookerstudio.google.com/embed/reporting/85837ecb-a3f9-448f-b70b-20c2ec603ac4/page/qlD" frameborder="0" style="border:0" allowfullscreen></iframe>
 
 
 **Report Pages**
 
-- Page 1
+- Huayoccari
   
-[![Hotel Prices in Mumbai Page 1](/images/HotelPrices/HP01.png?raw=true)](/images/HotelPrices/HP01.png?raw=true) 
+[![Huayoccari](/images/Sinkumunchis/Sinku_01.png?raw=true)](/images/Sinkumunchis/Sinku_01.png?raw=true) 
 
-- Page 2
+- Pisaac
   
-[![Hotel Prices in Mumbai Page 2](/images/HotelPrices/HP02.png?raw=true)](/images/HotelPrices/HP02.png?raw=true) 
+[![Pisaac](/images/Sinkumunchis/Sinku_02.png?raw=true)](/images/Sinkumunchis/Sinku_02.png?raw=true) 
 
-- Page 3
+- Maras
   
-[![Hotel Prices in Mumbai Page 3](/images/HotelPrices/HP03.png?raw=true)](/images/HotelPrices/HP03.png?raw=true) 
+[![Maras](/images/Sinkumunchis/Sinku_03.png?raw=true)](/images/Sinkumunchis/Sinku_03.png?raw=true)  
 
 
 ### Key Findings
