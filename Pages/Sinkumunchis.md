@@ -42,37 +42,33 @@ Sinkumunchis envisions an ambitious expansion plan, aiming to establish a total 
 
 ### Key Findings
 
-**Location and Airport Proximity:** 🌆
+**Huayoccari Insights 🏫📊**
 
-- Settle into a world of convenience as most hotels embrace prime spots near Mumbai Airport, ensuring swift accessibility for globetrotters. This strategic placement aligns perfectly with the needs of travelers seeking seamless airport connections.
+**Student Population** 🧑‍🎓
+- The school boasts a vibrant community of 278 students. Let's dive into the details!
 
-**Diverse Price Palette:** 💰
+**Student Categories** 📈
+- Behold the age-based categorization! The bar chart showcases Sub 10 as the frontrunner with a whopping 54 students, while Sub 15 trails with a modest 7.
 
-- Unravel the tapestry of Mumbai's hotel prices, a vibrant spectrum catering to every wallet size. From the grandeur of a ₹49,780 luxury haven to the comfort of a pocket-friendly ₹1000 haven, the choices are as diverse as the city itself.
+**Student Gender** 🚻
+- In the gender arena, males take the lead, commanding 74.8% of the student body. The female contingent gracefully occupies the rest.
 
-**Stars Shine Bright:** ✨
+**Student Attendance** 📅
+- The table unravels the attendance saga of each student over the last four months. A tale of commitment and engagement!
 
-- Witness the star-studded skyline of Mumbai's hotels as a plethora of them, nestled near the airport, flaunt the prestigious 4 or 5-star ratings. This constellation of high ratings points towards an unswerving dedication to crafting top-notch experiences for discerning travelers.
+**School Attendance Trends** 📈
+- The line chart unfolds the ebb and flow of student presence, with October 2023 witnessing the grandest assembly.
 
-**A Glimpse into Hotel Enclaves:** 👀
+**Shoe Sizes** 👟
+- The bar chart walks us through the diverse landscape of shoe sizes. Amidst 186 mysterious entries, size 12 emerges as a popular choice for 30 students, while size 9 graces the feet of the select four.
 
-- Mumbai Airport Area: Step into a realm where hotels come at an average of around ₹10,500, often adorned with the "Very Good" rating, a testament to guest satisfaction.
-- Bandra Kurla Complex: Experience a slice of luxury with an average cost of about ₹18,700, coupled with an "Excellent" rating. Seekers of affordable indulgence can find options under ₹7,000 still glowing with a "Very Good" badge.
-- Andheri West: For those on a budget journey, unlock options below ₹5,000, each bedecked with a "Very Good" rating.
-- Colaba: Colaba beckons with hotels boasting an "Excellent" rating, usually accompanied by a price tag around the ₹3,200 mark.
+**Shorts Sizes** 🩳
+- In the realm of shorts, the bar chart struts its stuff. Size 36 dominates the fashion scene with 37 enthusiasts, while the 40s make a statement with a following of 14.
 
-**Guest Voices:** 🗣️
+**Student's Community** 🌍
+- The table paints a vivid picture of the student's origins. Huayoccari proudly leads with 112 students, while communities like Yanahuara, Qhesqa/Ollanta, YUCAY, Lamay, and Ticapata are each represented by a unique soul.
 
-- "Very Good" Ratings: The resounding chorus of "Very Good" ratings reverberates through the halls of most hotels, underscoring elevated guest satisfaction.
-- "Excellent" Ratings: A noteworthy ensemble of hotels garners the "Excellent" accolade, a testament to their commitment to exceeding guest expectations.
-- "Good" Ratings: While fewer in numbers, hotels with "Good" ratings still resound with positive experiences, making them a viable choice.
-
-**Landmark Tales:** 🗺️
-
-- Far from Landmarks: Serenity seekers rejoice as the majority of hotels bask in quietude, distanced from bustling landmarks, allowing you to unwind in peace.
-- Close to Landmarks: A delightful array of hotels cozy up to landmarks, offering instant access to the city's attractions and experiences.
-- No Landmark Proximity: For solitude seekers, a select few hotels offer the luxury of seclusion, away from the hum of landmarks.
-
+- Education at Huayoccari isn't just about classrooms; it's a vibrant tapestry of students, each contributing their unique thread to the rich fabric of the school community! 🎓🌈
 
 ## 📝 Conclusion
 
