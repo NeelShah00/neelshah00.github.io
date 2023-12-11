@@ -18,6 +18,37 @@ Sinkumunchis envisions an ambitious expansion plan, aiming to establish a total 
   </tr>
 </table>
 
+### 📊 Data Journey with Sinkumunchis ⚽📈
+
+**Data Gathering** 🤝
+- **Collaborative Engagement:** Worked closely with stakeholders, including field staff, trainers, and administrators.
+- **Diverse Data Sets:** Collected information like attendance, survey responses, grades, and contact details.
+- **Integration of Data:** Combined data from various sources, including Maras, Pisac, Huayoccari schools, and specific research datasets.
+
+**Data Interpretation** 🧐
+- **Comprehensive Analysis:** Thoroughly examined collected data, emphasizing player characteristics, attendance patterns, and community demographics.
+- **Translation into Insights:** Derived actionable insights, exploring correlations between program attendance and academic performance.
+
+**Data Cleaning** 🧹
+- **Meticulous Processes:** Used tools like Google Sheet and Power BI for cleanliness and accuracy.
+- **Standardization:** Formatted data consistently, removed duplicates, and validated information.
+- **Structured Database:** Created an organized and standardized database for efficient data management.
+
+**Loading Data into Google Looker** 🚀
+- **Utilization of Google Looker:** Leveraged its capabilities for seamless integration and visualization.
+- **Integration of Cleaned Data:** Incorporated cleaned and standardized data into Google Looker, aligning with data models.
+- **Configuration for Efficiency:** Set up the system to streamline data loading and management processes.
+
+**Structuring KPIs and Visualization** 📊
+- **Definition of KPIs:** Identified and established key performance indicators aligned with Sinkumunchis' strategic goals.
+- **Visual Development:** Created visual representations (pie charts, gauge charts, tables, line charts) for essential insights.
+- **Evaluation of Visualizations:** Assessed effectiveness in simplifying complex data for better understanding.
+
+**Presenting Results** 🚀
+- **Dashboard Creation:** Developed an interactive, user-friendly dashboard within Google Looker.
+- **Chart Presentation:** Used charts for visually engaging results, ensuring clarity and accessibility.
+- **Interactivity for Analysis:** Incorporated features to facilitate customized analysis by stakeholders.
+
 ### 📊 Analysis
 
 **Embedded Report**
