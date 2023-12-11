@@ -5,6 +5,16 @@
 <!-- Favicon -->
 <link rel="icon" href="/images/Website_logo.jpeg" type="image/x-icon">
 
+### 🚀 Adventure Works Report
+
+[![Adventure Works Report](/images/Adventure_Works_Report/AdventureWorks_Exec_Report.png)](/Pages/Adventure_Works)
+
+The Adventure Works Data Analysis project is a comprehensive exploration of the company's extensive dataset, designed to unlock valuable insights and inform strategic decisions. 📈🔍💡 #PowerBI
+
+[**See More**](/Pages/Adventure_Works)
+
+---
+
 ### 🎮 Kreative Global Services Analysis 
 
 [![Kreative Global Services Thumbnail](images/CGS/Thumbnail1.png)](/Pages/KGS_analysis)
@@ -52,16 +62,6 @@
 Unveil the secrets of Mumbai's vibrant hospitality scene with a data-driven exploration of hotel prices. From pocket-friendly stays to luxurious escapes, discover a range of options that cater to every traveller's budget. 💰 #Excel #Google_Looker_Studio
 
 [**See More**](/Pages/HotelPrices)
-
----
-
-### 🚀 Adventure Works Report
-
-[![Adventure Works Report](/images/Adventure_Works_Report/AdventureWorks_Exec_Report.png)](/Pages/Adventure_Works)
-
-The Adventure Works Data Analysis project is a comprehensive exploration of the company's extensive dataset, designed to unlock valuable insights and inform strategic decisions. 📈🔍💡 #PowerBI
-
-[**See More**](/Pages/Adventure_Works)
 
 ---
 
