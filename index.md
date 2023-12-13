@@ -15,6 +15,16 @@ The Adventure Works Data Analysis project is a comprehensive exploration of the 
 
 ---
 
+### ⚽ Sinkumunchis: Empowering Communities Through Football Schools
+
+[![Sinkumunchis Thumbnail](images/Sinkumunchis/Sinku_01.png)](/Pages/Sinkumunchis)
+
+Join the journey of Sinkumunchis, a nonprofit organization dedicated to developing football schools in remote Quechua-speaking Andean communities. With three established schools serving nearly 1000 students and an ambitious vision to reach 10 schools by the end of 2025, Sinkumunchis fosters growth and community impact. 🏫🌍 #Google_Sheet #Google_Looker_Studio
+
+[**See More**](/Pages/Sinkumunchis)
+
+---
+
 ### 🎮 Kreative Global Services Analysis 
 
 [![Kreative Global Services Thumbnail](images/CGS/Thumbnail1.png)](/Pages/KGS_analysis)
