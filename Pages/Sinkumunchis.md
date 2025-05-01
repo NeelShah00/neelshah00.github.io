@@ -51,11 +51,6 @@ Sinkumunchis envisions an ambitious expansion plan, aiming to establish a total 
 
 ### 📊 Analysis
 
-**Embedded Report**
-
-<iframe width="600" height="450" src="https://lookerstudio.google.com/embed/reporting/85837ecb-a3f9-448f-b70b-20c2ec603ac4/page/qlD" frameborder="0" style="border:0" allowfullscreen></iframe>
-
-
 **Report Pages**
 
 - Huayoccari
