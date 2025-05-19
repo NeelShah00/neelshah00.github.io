@@ -74,5 +74,14 @@ Unveil the secrets of Mumbai's vibrant hospitality scene with a data-driven expl
 [**See More**](/Pages/HotelPrices)
 
 ---
+### 🧪 COVID-19 Reporting with Azure Data Factory 
+
+[![🧪 COVID-19 Reporting with Azure Data Factory](/images/Covid19ReportingADF/ADF_Banner.png)](/Pages/ADF_COVID19_Reporting)
+
+Dive into a robust end-to-end data engineering solution that automates COVID-19 reporting using Azure Data Factory. From ingesting raw data to transforming and publishing clean outputs for analysis, this project showcases practical ETL pipelines, dynamic data flows, and cloud-native orchestration. ☁️📊 #Azure #DataFactory #ETL
+
+[**See More**](/Pages/ADF_COVID19_Reporting)
+
+---
 
 Let the magic of data unfold as we delve into exciting projects and creative endeavors! 🚀🌌
