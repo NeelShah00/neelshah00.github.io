@@ -38,9 +38,9 @@ These pipelines trigger the respective data flows, running them on AutoResolveIn
 
 [![Processing Flow](/images/Covid19ReportingADF/Screenshot%20(91).png?raw=true)](/images/Covid19ReportingADF/Screenshot%20(91).png?raw=true)
 
-## 🗃 SQLite Export
+## 🗃 SQL Export
 
-Two pipelines prepare data for export to SQLite, using wildcard datasets to collect all processed files and make them ready for SQLite ingestion.
+Two pipelines prepare data for export to SQLite, using wildcard datasets to collect all processed files and make them ready to import into SQL database.
 
 [![SQLite Case Export](/images/Covid19ReportingADF/Screenshot%20(93).png?raw=true)](/images/Covid19ReportingADF/Screenshot%20(93).png?raw=true)
 [![SQLite Admission Export](/images/Covid19ReportingADF/Screenshot%20(94).png?raw=true)](/images/Covid19ReportingADF/Screenshot%20(94).png?raw=true)
