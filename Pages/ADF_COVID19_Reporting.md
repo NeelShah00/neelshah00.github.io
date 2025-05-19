@@ -16,6 +16,7 @@ There are dedicated pipelines for ingesting population data and ECDC COVID-19 st
   </a>
 </div>
 
+<br>
 
 <div style="border: 2px solid #ccc; padding: 5px; display: inline-block;">
   <a href="/images/Covid19ReportingADF/Screenshot%20(90).png?raw=true">
