@@ -5,9 +5,7 @@ This project demonstrates how Azure Data Factory (ADF) is used to orchestrate da
 
 ## 🧩 Architecture Overview
 
-The solution ingests data from the ECDC website and population datasets stored in Azure Blob. These are processed and stored in Azure Data Lake Gen2. ADF Data Flows handle transformation logic, with final output written to Azure SQL Database for reporting. Below is a sample diagram of this flow.
-
-[![ADF Data Flow](/images/Covid19ReportingADF/Screenshot%20(85).png?raw=true)](/images/Covid19ReportingADF/Screenshot%20(85).png?raw=true)
+The solution ingests data from the ECDC website and population datasets stored in Azure Blob. These are processed and stored in Azure Data Lake Gen2. ADF Data Flows handle transformation logic, with final output written to Azure SQL Database for reporting.
 
 ## 🚀 Ingestion Pipelines
 
@@ -43,19 +41,18 @@ These pipelines trigger the respective data flows, running them on AutoResolveIn
 Two pipelines prepare data for export to SQLite, using wildcard datasets to collect all processed files and make them ready to import into SQL database.
 
 [![SQLite Case Export](/images/Covid19ReportingADF/Screenshot%20(93).png?raw=true)](/images/Covid19ReportingADF/Screenshot%20(93).png?raw=true)
-[![SQLite Admission Export](/images/Covid19ReportingADF/Screenshot%20(94).png?raw=true)](/images/Covid19ReportingADF/Screenshot%20(94).png?raw=true)
 
 ## ✅ Monitoring
 
 Monitoring of pipeline executions is shown using ADF Studio's runtime views, with status on each activity including lookup, copy, and ForEach executions.
 
-[![Pipeline Monitoring](/images/Covid19ReportingADF/Screenshot%20(92).png?raw=true)](/images/Covid19ReportingADF/Screenshot%20(92).png?raw=true)
+[![Pipeline Monitoring](/images/Covid19ReportingADF/Screenshot%20(94).png?raw=true)](/images/Covid19ReportingADF/Screenshot%20(94).png?raw=true)
 
 ## 📦 Data Sources
 
-- COVID-19 case and death data from ECDC: [ECDC Cases Data](https://opendata.ecdc.europa.eu/covid19/nationalcasedeath/csv)
-- Hospital admissions: [ECDC Hospital Data](https://opendata.ecdc.europa.eu/covid19/hospitalicuadmissionrates/csv/data.csv)
-- Population by age: [Eurostat Dataset](https://ec.europa.eu/eurostat)
+- COVID-19 case and death data from ECDC
+- Hospital admissions from ECDC
+- Population by age from Eurostat
 
 ## 🔌 Linked Services
 
