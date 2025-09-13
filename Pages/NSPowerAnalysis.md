@@ -42,7 +42,7 @@ Python was the backbone of data preparation and analysis:
 
 ### 🔎 Matching Analysis (Part A)
 
-  <iframe src="/pdf/NSPowerAnalysis/PartAPlots/PartA_Plots.pdf" width="1200px" height="350px" style="display: inline-block;"></iframe>
+  <iframe src="/pdf/NSPowerAnalysis/PartAPlots/PartA_Plots.pdf" width="700px" height="350px" style="display: inline-block;"></iframe>
 
 **Key Insights**  
 - 📊 Strong **seasonal alignment** observed between treatment and control groups.  
